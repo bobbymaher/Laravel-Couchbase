@@ -1,6 +1,6 @@
 {
-  "name": "ytake/laravel-couchbase",
-  "description": "Couchbase providers for Laravel",
+  "name": "bobbymaher/laravel-couchbase",
+  "description": "Couchbase providers for Laravel 5.6",
   "keywords": [
     "laravel",
     "couchbase",
@@ -11,8 +11,8 @@
   ],
   "authors": [
     {
-      "name": "Yuuki Takezawa",
-      "email": "yuuki.takezawa@comnect.jp.net"
+      "name": "Bobby Maher, Yuuki Takezawa",
+      "email": ""
     }
   ],
   "license": "MIT",
