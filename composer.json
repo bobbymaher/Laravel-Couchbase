@@ -16,6 +16,12 @@
     }
   ],
   "license": "MIT",
+   "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ytake/Laravel-Couchbase"
+        }
+    ],
   "require": {
     "php": ">=7.0.0",
     "ext-couchbase": ">=2.3.2",
